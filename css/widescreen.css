@@ -1,0 +1,15 @@
+html,body{
+  max-width: inherit;
+}
+
+/* what to left */
+
+#what .itms .itm{
+  display: flex;
+  text-align: left;
+}
+
+#what .itms .itm i{
+  margin-right: 1.3rem;
+  align-self: center;
+}
